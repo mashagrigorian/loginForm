@@ -1,0 +1,27 @@
+{
+    "Status": "ok",
+    "Data": {
+      "access_token":
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoicmF6bWlrLmRhdnR5YW5AZ21haWwuY29tIiwiZ2VuZGVyIjoiTWFsZSIsImlhdCI6MTYyMDYzNjA2MSwiZXhwIjoxNjIwNjU0MDYxfQ.Nk8wFXSPmHxLZqhOBHv2gU0CS1jI3lRqRSBwqzWgjrI",
+      "user": {
+        "_id": "609142ffc9ff752457d53bc9",
+        "username": "razd22",
+        "dtStartRegistration": "2021-05-04T12:50:07.581Z",
+        "DOB": "2000-05-01T00:00:00.000Z",
+        "email": "razmik.davtyan@gmail.com",
+        "location": "Oslo",
+        "dtFinishedRegistration": "2021-05-10T08:09:09.840Z",
+        "email_verified": true,
+        "gender": "Male",
+        "looking_for": "Female",
+        "phone_verified": null,
+        "state": "online",
+        "type": "intro",
+        "verification_token":
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoicmF6bWlrLmRhdnR5YW5AZ21haWwuY29tIiwiaWF0IjoxNjIwNjM0MTQ5LCJleHAiOjE2MjA4OTMzNDl9.69k7OpecbYzMRgzxiz41l96q4HFgpxgak0jhQVSiU2k",
+        "access_token":
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoicmF6bWlrLmRhdnR5YW5AZ21haWwuY29tIiwiZ2VuZGVyIjoiTWFsZSIsImlhdCI6MTYyMDYzNjA2MSwiZXhwIjoxNjIwNjU0MDYxfQ.Nk8wFXSPmHxLZqhOBHv2gU0CS1jI3lRqRSBwqzWgjrI"
+      }
+    },
+    "Time": 81.561839
+  }
